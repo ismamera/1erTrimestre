@@ -4,6 +4,7 @@ soy la novIA DE SERGI
 ayer fui a cas de sergi y le robe 3 sudaderas :)
 le dije hola a mi suegro
 fui a ver el partido
+
 me fui a micasa
 _tupack_
 *Sergi te vas a quedar sin casa pa k sepas*
