@@ -3,5 +3,7 @@
 ## 15 Septiembre
 
 Prové esta pagina
-![Uploading image.png…](https://agilefingers.com/es/textos/about-edmind-germana-es/resumen)
 
+![AgileFingers](https://agilefingers.com/es)
+
+[SenseLang](https://games.sense-lang.org/type4life/ES.php?key=spanish)
