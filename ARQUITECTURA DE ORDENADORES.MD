@@ -9,26 +9,26 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
 BIANRIO:
 
-0     0
+0  -  0
 
-1     1
+1  -   1
 
-2     10
+2  -  10
 
-3     11
+3  -  11
 
-4     100
+4  -  100
 
-5     101
+5  -   101
 
-6     110
+6  -   110
 
-7     111
+7  -   111
 
-8     1000
+8  -   1000
 
-9     1001
+9  -   1001
 
-10    1010
+10  -  1010
 
 
