@@ -1,3 +1,9 @@
+# Indice
+
+[CLASE DE BINARIO](https://github.com/Ainhoa0512/1erTrimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#clase-de-binario)
+
+[ARQUITECTURA DE ORDENADORES]
+
 # ARQUITECTURA DE ORDENADORES
 
 Aqui estan los apuntes sobre arquitectura de ordenadores
@@ -6,9 +12,6 @@ Aqui estan los apuntes sobre arquitectura de ordenadores
 
 Una de las cosas que mas me han gustado ha sido el código binario y las piezas del intetrior de pc, nos han explicado para que sirven y sus funcionalidades, tambien el funcionamiento basico que suele hacer un ordenador
 
-# Indice
-
-[CLASE DE BINARIO](https://github.com/Ainhoa0512/1erTrimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#clase-de-binario)
 
 
 ## CLASE DE BINARIO:
