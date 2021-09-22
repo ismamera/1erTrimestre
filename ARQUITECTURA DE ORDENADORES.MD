@@ -9,6 +9,11 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
 ## CLASE DE BINARIO:
 
+Vitas notacion binaria 06 0111100110 (un cero y una b)
+
+0b se utiliza para binario a un decimal que va un numero en binario
+
+Para HEXADECIMAL SE ESCRIBE 0x
 
 ```
 0  -  0
