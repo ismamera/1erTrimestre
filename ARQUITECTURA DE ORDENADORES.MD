@@ -93,7 +93,8 @@ e
 
 f
 
-### Numeros Decimales:
+### Ejercicios de conversión:
+
 [Conversor](https://www.traductorbinario.com/)
 
 1 000 000 ¿como es en bianrio?
