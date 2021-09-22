@@ -96,3 +96,7 @@ f
 Numeros Decimales:
 
 1 000 000 ¿como es en bianrio?
+
+¿Cuantas cifras tiene? 17
+
+00110001 00110111 
