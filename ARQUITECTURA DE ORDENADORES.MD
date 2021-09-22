@@ -8,6 +8,11 @@
 
 Aqui estan los apuntes sobre arquitectura de ordenadores
 
+Un ordenador es una maquina electronica que sirve para procesar informacion digital 
+
+![Funcionamiento](![imagen](https://user-images.githubusercontent.com/90753262/134322600-b5b1a628-e2be-40cf-bd44-e8efd497cc9e.png)
+
+
 [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 Una de las cosas que mas me han gustado ha sido el código binario y las piezas del intetrior de pc, nos han explicado para que sirven y sus funcionalidades, tambien el funcionamiento basico que suele hacer un ordenador
