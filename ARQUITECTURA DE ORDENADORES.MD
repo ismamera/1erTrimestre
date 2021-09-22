@@ -21,7 +21,7 @@ Para HEXADECIMAL SE ESCRIBE 0x
 
 Exixten codigos que convierten números en letras
 
-ASCII (antiguo) tiene 245 valores y carácteres latinos
+ASCII (antiguo) tiene 255 valores y carácteres latinos
 
 A: 011000
 
