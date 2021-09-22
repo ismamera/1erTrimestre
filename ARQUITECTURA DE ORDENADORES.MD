@@ -31,7 +31,7 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
 10  -  1010
 
- (Funciona con potencias de (2: 2,4,6,8,16,32,64))
+ *(Funciona con potencias de (2: 2,4,6,8,16,32,64))
 
 *OCTAL (8)*
 
