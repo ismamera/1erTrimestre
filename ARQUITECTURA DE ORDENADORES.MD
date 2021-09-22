@@ -78,6 +78,15 @@ en  la  pantalla.)
 
 [Ventilador](https://www.pccomponentes.com/tempest-pro-cooler-4pipes-black-rgb-ventilador-cpu-120mm)
 
+[Placa Base](https://www.pccomponentes.com/msi-b450-gaming-plus-max)
+
+[Memoria Ram](https://www.pccomponentes.com/corsair-vengeance-rgb-pro-ddr4-2666mhz-pc4-21300-32-gb-2x16gb-cl16)
+
+[Porcesador](https://www.pccomponentes.com/amd-ryzen-5-1600-stepping-af-36ghz-box)
+
+[Placa Base](https://www.pccomponentes.com/msi-b450-gaming-plus-max)
+
+
 
 
 [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
