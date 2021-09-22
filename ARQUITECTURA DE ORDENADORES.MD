@@ -7,7 +7,7 @@ Aqui estan los apuntes sobre arquitectura de ordenadores
 Una de las cosas que mas me han gustado ha sido el código binario y las piezas del intetrior de pc, nos han explicado para que sirven y sus funcionalidades, tambien el funcionamiento basico que suele hacer un ordenador
 
 
-## BIANRIO:
+## CLASE BINARIO:
 
 0  -  0
 
@@ -33,7 +33,7 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
  (Funciona con potencias de (2: 2,4,6,8,16,32,64))
 
-OCTAL (8)
+*OCTAL (8)*
 
 0
 
@@ -59,7 +59,7 @@ OCTAL (8)
 
 13
 
-HEXADECIMAL
+*HEXADECIMAL*
 
 0
 
@@ -93,7 +93,7 @@ e
 
 f
 
-## Numeros Decimales:
+### Numeros Decimales:
 [Conversor](https://www.traductorbinario.com/)
 
 1 000 000 ¿como es en bianrio?
