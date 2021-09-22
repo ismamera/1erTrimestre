@@ -7,7 +7,7 @@ Aqui estan los apuntes sobre arquitectura de ordenadores
 Una de las cosas que mas me han gustado ha sido el código binario y las piezas del intetrior de pc, nos han explicado para que sirven y sus funcionalidades, tambien el funcionamiento basico que suele hacer un ordenador
 
 
-BIANRIO:
+## BIANRIO:
 
 0  -  0
 
@@ -94,9 +94,18 @@ e
 f
 
 Numeros Decimales:
+[conversor](https://www.traductorbinario.com/)
 
 1 000 000 ¿como es en bianrio?
 
 ¿Cuantas cifras tiene? 17
 
-00110001 00110111 
+Rescultado: 00110001 00110111 
+
+¿Cuanto es en decimal? 11100110011001 ¿cuantas letras tiene? 
+
+Resultado: 14745
+
+
+
+
