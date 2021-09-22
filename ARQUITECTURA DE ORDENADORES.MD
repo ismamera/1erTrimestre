@@ -9,6 +9,8 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
 ## CLASE DE BINARIO:
 
+
+```
 0  -  0
 
 1  -   1
@@ -30,11 +32,11 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 9  -   1001
 
 10  -  1010
-
+```
  *(Funciona con potencias de (2: 2,4,6,8,16,32,64))
 
 *OCTAL (8)*
-
+```
 0
 
 1
@@ -58,9 +60,9 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 12
 
 13
-
+```
 *HEXADECIMAL*
-
+```
 0
 
 1
@@ -92,10 +94,11 @@ d
 e
 
 f
+```
 
 ### Ejercicios de conversión:
 
-[Conversor](https://www.traductorbinario.com/)
+[Conversor](https://www.traductorbinario.com/) Este conversor convierte a código Ascii, no a decimal. 
 
 1 000 000 ¿como es en bianrio?
 
