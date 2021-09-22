@@ -2,7 +2,7 @@
 
 [CLASE DE BINARIO](#clase-de-binario)
 
-[ARQUITECTURA DE ORDENADORES]
+[ARQUITECTURA DE ORDENADORES](#arquitectura-de-ordenadores)
 
 # ARQUITECTURA DE ORDENADORES
 
