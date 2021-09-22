@@ -11,4 +11,6 @@ Vengo de Castelldefels, estoy en este curso poirque me gustaria aprender microin
 
 [MECANOGRAFIA](https://github.com/Ainhoa0512/1erTrimestre/edit/main/MECANOGRAFIA.MD)
 
+[CALSE DE BINARIO](https://github.com/Ainhoa0512/1erTrimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#clase-de-binario)
+
 
