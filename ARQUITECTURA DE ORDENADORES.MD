@@ -30,7 +30,7 @@ Fuentes de alimentación (interno)
 
 Bateria (interno)
 
-Interior del PC 
+## Interior del PC 
 
 - Fuente de alimentación.(convierte la corriente alterna que tomamos de 
 la red eléctrica en continua)
@@ -44,11 +44,41 @@ es procesar los datos y las instrucciones que recibe de la memoria RAM.)
 - Memoria RAM (La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
 con  los  que  está  trabajando. )
 
+- Tarjeta gráfica (La función básica de una tarjeta gráfica es convertir la información procesada por el ordenador, 
+o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
+en  la  pantalla.)
 
 
-- Los discos duros.  
+
+- Los discos duros.Existen dos tipos:   
 - 
 - Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray
+
+## CREACION DE UN ORDENADOR
+
+[Sistema Operativo](https://www.pccomponentes.com/microsoft-windows-10-home-plus-32-64bits)
+
+[Tarjeta red](https://www.pccomponentes.com/tp-link-tl-wn881nd-300mbs-11n-wireless-pci-express-ver-20)
+
+[Ratón](https://www.pccomponentes.com/razer-basilisk-ultimate-raton-gaming-20000-dpi-negro)
+
+[Teclado](https://www.pccomponentes.com/razer-huntsman-tournament-edition-teclado-mecanico-gaming-rgb-switch-optico-lineal)
+
+[Monitor](https://www.pccomponentes.com/msi-pro-mp271p-27-led-ips-fullhd)
+
+[Tarjeta de sonido](https://www.pccomponentes.com/creative-sound-blaster-play-3-tarjeta-de-sonido-usb)
+
+[Tarjeta Grafica](https://www.pccomponentes.com/gigabyte-geforce-gt-710-2gb-ddr3)
+
+[Fuente alimentacion](https://www.pccomponentes.com/tempest-gaming-gpsu-fuente-de-alimentacion-750w)
+
+[Caja Torre](https://www.pccomponentes.com/nfortec-lynx-cristal-templado-usb-30-rgb-negra)
+
+[Disco duro](https://www.pccomponentes.com/samsung-870-qvo-ssd-1tb-sata3)
+
+[Ventilador](https://www.pccomponentes.com/tempest-pro-cooler-4pipes-black-rgb-ventilador-cpu-120mm)
+
+
 
 [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
