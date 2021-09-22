@@ -15,6 +15,16 @@ Vitas notacion binaria 06 0111100110 (un cero y una b)
 
 Para HEXADECIMAL SE ESCRIBE 0x
 
+### Convertir numeros en letras
+
+Exixten codigos que convierten números en letras
+
+ASCII (antiguo) tiene 245 valores y carácteres latinos
+
+A: 011000
+
+a: 0b1010
+
 ```
 0  -  0
 
