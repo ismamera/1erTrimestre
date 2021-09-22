@@ -100,6 +100,8 @@ f
 
 [Conversor](https://www.traductorbinario.com/) Este conversor convierte a código Ascii, no a decimal. 
 
+[Conversor decimal a binario](https://es.convertbinary.com/binario-a-decimal/)
+
 1 000 000 ¿como es en bianrio?
 
 ¿Cuantas cifras tiene? 17
