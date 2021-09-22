@@ -92,3 +92,7 @@ d
 e
 
 f
+
+Numeros Decimales:
+
+1 000 000 ¿como es en bianrio?
