@@ -17,6 +17,8 @@ Para HEXADECIMAL SE ESCRIBE 0x
 
 ### Convertir numeros en letras
 
+[Conversor ASCII](https://www.traductorbinario.com/)
+
 Exixten codigos que convierten números en letras
 
 ASCII (antiguo) tiene 245 valores y carácteres latinos
@@ -24,6 +26,8 @@ ASCII (antiguo) tiene 245 valores y carácteres latinos
 A: 011000
 
 a: 0b1010
+
+Unicode: hasta 100000 carácteres
 
 ```
 0  -  0
