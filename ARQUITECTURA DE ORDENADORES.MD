@@ -10,7 +10,17 @@ Aqui estan los apuntes sobre arquitectura de ordenadores
 
 Un ordenador es una maquina electronica que sirve para procesar informacion digital 
 
-![Funcionamiento](![imagen](https://user-images.githubusercontent.com/90753262/134322600-b5b1a628-e2be-40cf-bd44-e8efd497cc9e.png)
+[](![imagen](https://user-images.githubusercontent.com/90753262/134322600-b5b1a628-e2be-40cf-bd44-e8efd497cc9e.png)
+
+Un ordenador es una máquina electrónica, es decir,un hardware,y un software es un programa 
+
+Para  medir  la  información  digital  se  utilizan  diferentes  unidades,  según  el  tamaño  de  la 
+información a medir.La unidad elemental es el Bit, corresponde acada uno de los ceros y unos de que consta una información digital.
+
+Un conjunto formado por 8 bits recibe el nombre de Byte. Por tanto, también podemos decir que 
+el numero 150 mide 1 byte.
+
+![imagen](https://user-images.githubusercontent.com/90753262/134323690-e6d39d6e-6a9e-4586-a67a-e30c36c39b69.png)
 
 
 [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
