@@ -33,7 +33,7 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
 Funciona con potencias de (2: 2,4,6,8,16,32,64)
 
-OCTAL(8)
+OCTAL (8)
 
 0
 
@@ -93,8 +93,8 @@ e
 
 f
 
-Numeros Decimales:
-[conversor](https://www.traductorbinario.com/)
+## Numeros Decimales:
+[Conversor](https://www.traductorbinario.com/)
 
 1 000 000 ¿como es en bianrio?
 
@@ -102,7 +102,9 @@ Numeros Decimales:
 
 Rescultado: 00110001 00110111 
 
-¿Cuanto es en decimal? 11100110011001 ¿cuantas letras tiene? 
+¿Cuanto es en decimal? 11100110011001 
+
+¿cuantas letras tiene? 
 
 Resultado: 14745
 
