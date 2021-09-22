@@ -4,6 +4,8 @@
 
 [ARQUITECTURA DE ORDENADORES](#arquitectura-de-ordenadores)
 
+#JAJA NO Q HA PASAO
+
 # ARQUITECTURA DE ORDENADORES
 
 Aqui estan los apuntes sobre arquitectura de ordenadores
