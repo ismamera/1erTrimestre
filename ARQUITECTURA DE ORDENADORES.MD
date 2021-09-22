@@ -22,6 +22,21 @@ el numero 150 mide 1 byte.
 
 ![imagen](https://user-images.githubusercontent.com/90753262/134323690-e6d39d6e-6a9e-4586-a67a-e30c36c39b69.png)
 
+PORTATIL
+
+Transformador externo (externo)
+
+Fuentes de alimentación (interno)
+
+Bateria (interno)
+
+Interior del PC 
+
+ Fuente de alimentación.  
+ Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
+tarjeta de sonido.  
+ Los discos duros.  
+ Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray
 
 [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
