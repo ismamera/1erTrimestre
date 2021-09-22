@@ -32,11 +32,23 @@ Bateria (interno)
 
 Interior del PC 
 
- Fuente de alimentación.  
- Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
-tarjeta de sonido.  
- Los discos duros.  
- Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray
+- Fuente de alimentación.(convierte la corriente alterna que tomamos de 
+la red eléctrica en continua)
+
+- Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
+tarjeta de sonido. ( es el circuito electrónico más importante del ordenador.)
+
+- Microprocesador(es un circuito integrado formado por millones de transistores, cuya función 
+es procesar los datos y las instrucciones que recibe de la memoria RAM.)
+
+- Memoria RAM (La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
+con  los  que  está  trabajando. )
+
+
+
+- Los discos duros.  
+- 
+- Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray
 
 [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
